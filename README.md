@@ -19,15 +19,20 @@
 ## `⟩_ WHOAMI`
 
 ```
-Laudza Kusuma        github.com/laudzakusuma
-Informatics — Universitas Gunadarma
-      Smart Contract Engineer
-      └─ Ethereum · Polygon · Sui
-        UI/UX Designer & Frontend Craftsman
-        └─ Vanilla CSS · CSS Modules · Pixel-perfect UI
-      IT Documentation Specialist
-      Cinematic Photography
-      Fitness & Discipline
+                        Laudza Kusuma
+              Informatics — Universitas Gunadarma
+
+Smart Contract Engineer
+└─ Ethereum · Polygon · Sui
+
+UI/UX Designer & Frontend Craftsman
+└─ Vanilla CSS · CSS Modules · Pixel-perfect UI
+
+IT Documentation Specialist
+
+Cinematic Photography
+
+Fitness & Discipline
 ```
 
 ---

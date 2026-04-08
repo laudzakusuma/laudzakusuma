@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff5,50:7b2ff7,100:ff2d78&height=220&section=header&text=ONE MAN %20ARMY&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Designer%20%C2%B7%20Blockchain%20Developer%20%C2%B7%20Smart%20Contract%20Engineer&descAlignY=58&descSize=15&descColor=ccfffe" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff5,50:7b2ff7,100:ff2d78&height=220&section=header&text=Laudza%20Kusuma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Designer%20%C2%B7%20Blockchain%20Developer%20%C2%B7%20Smart%20Contract%20Engineer&descAlignY=58&descSize=15&descColor=ccfffe" width="100%"/>
 
 <br/>
 
